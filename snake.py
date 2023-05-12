@@ -1,3 +1,6 @@
+import pygame
+import sys
+
 class Snake:
     def __init__(self):
         self.body = [(100, 100), (90, 100), (80, 100)]
