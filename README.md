@@ -51,4 +51,4 @@ python main.py
 
 ## Acknowledgements
 
-This code is based on a tutorial from [Tech With Tim](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg).
+This code is inspired on a tutorial from [Tech With Tim](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg).
