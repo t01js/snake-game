@@ -1,5 +1,6 @@
 import pygame
 import sys
+import random
 
 class Food:
     def __init__(self):
