@@ -1,6 +1,7 @@
 import pygame
 import sys
 
+
 class Food:
     def __init__(self):
         self.randomize_position()
